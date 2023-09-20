@@ -2,7 +2,6 @@
 api/__pycache__/
 api/migrations/__pycache__/
 db.sqlite3
-<<<<<<< HEAD
 media
 
 # Backup files # 
@@ -135,6 +134,3 @@ GitHub.sublime-settings
 !.vscode/extensions.json 
 .history
 node_modules
-=======
-mynotes/__pycache__/
->>>>>>> 8e1185cca55812a8272e4c5b27359619c4b15aac
