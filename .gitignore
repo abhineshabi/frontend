@@ -1,4 +1,6 @@
 .frontend/node_modules
+.frontend/build
+build
 api/__pycache__/
 api/migrations/__pycache__/
 db.sqlite3
@@ -134,3 +136,4 @@ GitHub.sublime-settings
 !.vscode/extensions.json 
 .history
 node_modules
+build
